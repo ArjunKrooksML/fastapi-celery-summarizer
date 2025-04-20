@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+redis
+openai
+python-dotenv
+pydantic
+pydantic-settings 
+requests 
+logging 
+hashlib

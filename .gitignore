@@ -1,0 +1,6 @@
+.env
+
+payload.json
+
+__pycache__/
+*.pyc
